@@ -17,9 +17,10 @@ Jump to:
 
 ## Exam Resources
 
-| Semester | Midterm 1 | Midterm 2 | Final |
+| Semester | Midterm (1) | Midterm 2 | Final |
 | -- | -- | -- | -- |
-| Spring 2024 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/sp24_mt1.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_1/sp24_mt1_sol.pdf)) | [Exam]({{ site.baseurl }}/assets/exams/midterm_2/sp24_mt2.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_2/sp24_mt2_sol.pdf)) | |
+| Fall 2024 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/fa24_mt1.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_1/fa24_mt1_sol.pdf)) | [Exam]({{ site.baseurl }}/assets/exams/midterm_2/fa24_mt2.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_2/fa24_mt2_sol.pdf))| |
+| Spring 2024 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/sp24_mt1.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_1/sp24_mt1_sol.pdf)) |[Exam]({{ site.baseurl }}/assets/exams/midterm_2/sp24_mt2.pdf) ([Solutions](assets/exams/midterm_2/sp24_mt2_sol.pdf)) | |
 | Fall 2023 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/fa23_mt1.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_1/fa23_mt1_sol.pdf)) |[Exam]({{ site.baseurl }}/assets/exams/midterm_2/fa23_mt2.pdf) ([Solutions](https://drive.google.com/file/d/1A4QUNqItI31id6Zl7nUfC-FZybTzXbm1/view?usp=sharing)) | |
 | Spring 2023 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/sp23_mt1.pdf) [(Solutions)]({{ site.baseurl }}/assets/exams/midterm_1/sp23_mt1_sol.pdf) | [Exam]({{ site.baseurl }}/assets/exams/midterm_2/sp23_mt2.pdf) [(Solutions)]({{ site.baseurl }}/assets/exams/midterm_2/sp23_mt2_sol.pdf) | |
 | Fall 2022 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/fa22_mt1.pdf) [(Solutions)]({{ site.baseurl }}/assets/exams/midterm_1/fa22_mt1_sol.pdf) | [Exam]({{ site.baseurl }}/assets/exams/midterm_2/fa22_mt2.pdf) [(Solutions)]({{ site.baseurl }}/assets/exams/midterm_2/fa22_mt2_sol.pdf) |  |
@@ -65,10 +66,6 @@ Data 102 builds on material taught in previous data science courses. You may fin
 * **[Data 8](https://inferentialthinking.com/chapters/intro.html)**
 * **[Data 100](https://ds100.org/course-notes-su23/)**
 * **[Data 140](http://prob140.org/textbook/content/README.html)**: even if you took one of the other probability prerequisite courses, this book can be a helpful reference.
-
-## Notes from current and previous course staff
-
-* [Notes on Gibbs sampling](https://drive.google.com/file/d/1qpunOYZ1uiphrnKjL1izpInRXe3sAsSv/view) from Shahzar (Spring 2024)
 
 ## Reading Resources
 

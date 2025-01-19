@@ -1,10 +1,10 @@
 ---
-title: 'Week 11: Spring Break'
+title: 'Week 11: Concentration and Bandits'
 ref: 'week-11'
 ---
 
-Mar 26
-: *Spring Break*
+Apr 1
+: **Lecture**{: .label .label-lecture } [18. Concentration Inequalities](lecture/lec18)
 
-Mar 28
-: *Spring Break*
+Apr 3
+: **Lecture**{: .label .label-lecture } [19. Bandits I](lecture/lec19)

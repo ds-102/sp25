@@ -8,7 +8,7 @@ description: A week-to-week description of the content covered in the course.
 # Data 102: Data, Inference, and Decisions
 
 {: .mb-2 }
-UC Berkeley, Spring 2024
+UC Berkeley, Spring 2025
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 <div>

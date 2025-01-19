@@ -19,12 +19,12 @@ description: The course syllabus
 
 This course develops the probabilistic foundations of inference in data science. It builds a comprehensive view of the decision-making and modeling life cycle in data science, including its human, social, and ethical implications. Topics include: frequentist and Bayesian decision-making, permutation testing, false discovery rate, probabilistic interpretations of models, Bayesian hierarchical models, basics of experimental design, confidence intervals, causal inference, robustness, Thompson sampling, optimal control, Q-learning, differential privacy, fairness in classification, recommendation systems and an introduction to machine learning tools including decision trees, neural networks and ensemble methods.
 
-This class is listed as [Data 102](https://classes.berkeley.edu/content/2024-spring-data-c102-001-lec-001).
+This class is listed as [Data 102](https://classes.berkeley.edu/content/2025-spring-data-c102-001-lec-001).
 
 
 ## Prerequisites
 
-While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites :
+We currently require the following (or equivalent) prerequisites:
 
 1. **Principles and Techniques of Data Science**: [Data 100](http://ds100.org/) covers important computational and statistical skills that will be necessary for Data 102.
 
@@ -40,20 +40,20 @@ Please consult the [Resources]({{ site.baseurl }}/resources) page for additional
 ### Lectures
 {:.no_toc}
 
-Lectures will be held in-person **Tuesdays and Thursdays** from **12:30 PM - 2 PM in Li Ka Shing 245**. Recordings will be made available on the course website within 24 hours.
+Lectures will be held in-person **Tuesdays and Thursdays** from **12:30 - 2 PM in 245 Li Ka Shing**. Recordings will be made available on the course website within 24 hours.
 
 ### Discussion
 {:.no_toc}
 Discussion section will be held on **Wednesdays**, led by your GSIs. These sections will cover important problem-solving skills that bridge the concepts in lectures with the skills you’ll need to apply the ideas on the homework and beyond.
 
-A few weeks into the semester, we will start the Supplemental Sections. A typical Supplemental Section consists of prerequisite content you might've forgotten or missed from Data 100/140 and “catch up” content to reinforce material you may have missed in the previous week. Details will be posted on Ed. Attending these sections is optional.
-
 ### Lab
 {:.no_toc}
 Labs will be held on **Mondays** by GSIs. You will be working on lab assignments with your GSI in these sections. You can complete the assignments on your own time, but you are highly encouraged to attend lab sessions to work with your classmates and get help from the staff. Help will be limited on Ed and office hours because of this.
 
+When completing and submitting the lab, you may work individually or in pairs. You may pair up with any enrolled or waitlisted student for each lab: you do not have to be in the same lab section or work with the same person every week.
+
 ### Homeworks
-{:.no_toc} 
+{:.no_toc}
 Homework assignments are released every other week on Fridays and due two Fridays after. These assignments are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lectures. They contain both math and coding tasks.
 
 - All homeworks must be submitted to Gradescope by their posted deadlines.
@@ -69,12 +69,12 @@ Vitamins are weekly short Gradescope assignments to check that you are keeping u
 
 There will be two midterms in this class:
 
-- Midterm I on **February 27th**, 7 PM - 9 PM 
-- Midterm II on **April 16th**, 7 PM - 9 PM 
+- Midterm I on **REPLACE THIS - October 8th**, 7 PM - 9 PM 
+- Midterm II on **REPLACE THIS - November 14th**, 7 PM - 9 PM 
 
 There will **not** be a final exam. 
 
-All exams must be taken in-person. You must sit the midterms at the specified time: if you have a conflict, please contact course staff ASAP at [data102@berkeley.edu](mailto:data102@berkeley.edu). **We will not accept any conflicts after the drop deadline**. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled exams.
+All exams must be taken in-person. You must sit the midterms at the specified time: if you have a conflict, please contact course staff ASAP at [data102@berkeley.edu](mailto:data102@berkeley.edu). **We will not accept any conflicts after the drop deadline**.
 
 ### Final Project
 {:.no_toc}
@@ -117,6 +117,7 @@ Each student gets an extension budget of 5 total slip days. You can use the exte
 * **Do not plan to use your slip days**: we're providing them for unforeseen circumstances.
 * **Slip days are self-serve**: we'll apply them to your assignments automatically.
 * **Slip days are full days, not hours.** We round up, so if you are 1 hour late, then 1 slip day will be used. (Why? We’d rather you get some sleep and make an attempt to finish the assignment the next day instead of staying up to micromanage hours.)
+* **For HW5 (and HW5 only), you may only use 2 slip days.**
 * After you have used your slip-time budget, any assignment handed in late will be marked off 20% per day late (rounded up to the nearest integer number of days).
 * No assignment will be accepted more than 5 days late.
 
@@ -124,9 +125,9 @@ Each student gets an extension budget of 5 total slip days. You can use the exte
 
 We recognize that our students come from varied backgrounds and have widely-varying experiences. If you encounter extenuating circumstances at any time in the semester, please do not hesitate to let us know. The sooner we are made aware, the more options we have available to us to help you.
 
-The Extenuating Circumstances Form is for any circumstances that cannot be resolved via slip days and drops. Within two business days of filling out the form, a course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data102@berkeley.edu](mailto:data102@berkeley.edu).
+For any circumstances that cannot be resolved via slip days and drops, please contact us at [data102@berkeley.edu](data102@berkeley.edu). Within two business days, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary.
 
-We recognize that at times, it can be difficult to manage your course performance — particularly in such a huge course, and particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). The Extenuating Circumstances Form is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out.
+We recognize that at times, it can be difficult to manage your course performance — particularly in such a huge course, and particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). This policy is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out.
 
 Note that extenuating circumstances do not extend to the following:
 - Logistical oversight, such as Datahub/Gradescope tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on Gradescope. It is the student’s responsibility to identify and resolve these issues in advance of the deadlines. 
@@ -138,9 +139,9 @@ Finally, simply submitting a request does not guarantee you will receive an exte
 
 ### DSP Accommodations
 
-If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes confirming your accommodations. Otherwise, email [data102@berkeley.edu](mailto:data102@berkeley.edu). DSP students who receive approved assignment accommodations will have a 2-day extension on homeworks and 1-day extension on labs and vitamins. Please note that any extension, plus slip days, cannot exceed 5 days. DSP students can submit assignment extension accommodation requests via the Extenuating Circumstances Form.
+If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes confirming your accommodations. Otherwise, email [data102@berkeley.edu](mailto:data102@berkeley.edu). DSP students who receive approved assignment accommodations will have a 2-day extension on homeworks and 1-day extension on labs and vitamins. Please note that any extension, plus slip days, cannot exceed 5 days.
 
-You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. 
+You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline.
 
 ### Collaboration and Academic Integrity
 
