@@ -42,6 +42,8 @@ Please consult the [Resources]({{ site.baseurl }}/resources) page for additional
 
 Lectures will be held in-person **Tuesdays and Thursdays** from **12:30 - 2 PM in 245 Li Ka Shing**. Recordings will be made available on the course website within 24 hours.
 
+Laptop use during lecture is discouraged. If you have circumstances that require or would benefit from the use of a laptop to support your learning during class (including but not limited to accommodations), you should fill out the [exemption form](https://docs.google.com/forms/d/e/1FAIpQLScUdBwGe9AvTwKVfkAXDZ8XRFPa_42NA18qYvEN4CwH_gT0sg/viewform).
+
 ### Discussion
 {:.no_toc}
 Discussion section will be held on **Wednesdays**, led by your GSIs. These sections will cover important problem-solving skills that bridge the concepts in lectures with the skills you’ll need to apply the ideas on the homework and beyond.
@@ -69,8 +71,8 @@ Vitamins are weekly short Gradescope assignments to check that you are keeping u
 
 There will be two midterms in this class:
 
-- Midterm I on **REPLACE THIS - October 8th**, 7 PM - 9 PM 
-- Midterm II on **REPLACE THIS - November 14th**, 7 PM - 9 PM 
+- Midterm I on **February 27th**, time TBA 
+- Midterm II on **April 17th**, time TBA 
 
 There will **not** be a final exam. 
 
@@ -123,7 +125,7 @@ Each student gets an extension budget of 5 total slip days. You can use the exte
 
 ### Extenuating Circumstances
 
-We recognize that our students come from varied backgrounds and have widely-varying experiences. If you encounter extenuating circumstances at any time in the semester, please do not hesitate to let us know. The sooner we are made aware, the more options we have available to us to help you.
+We recognize that our students come from varied backgrounds and have widely-varying experiences. If you encounter extenuating circumstances at any time in the semester, please do not hesitate to let us know by filling out this [extension request form](https://forms.gle/itp44JPQvXi9zF3h6). The sooner we are made aware, the more options we have available to us to help you.
 
 For any circumstances that cannot be resolved via slip days and drops, please contact us at [data102@berkeley.edu](data102@berkeley.edu). Within two business days, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary.
 

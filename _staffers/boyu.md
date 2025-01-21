@@ -8,4 +8,4 @@ photo: boyu.jpg
 pronouns: 
 ---
 
-Hi all! I’m Boyu, a rising senior studying Data Science, Statistics, and Economics. Hope you have fun in Data 102!
+Hi all! I’m Boyu, hope you have fun in Data 102!

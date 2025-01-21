@@ -5,7 +5,7 @@ role: TA
 email: derryxu@berkeley.edu@berkeley.edu
 website:
 photo: derry.jpg
-pronouns: 
+pronouns: he/him
 ---
 
-Hi everyone, my name is Derry.  I'm a senior studying CS/DS/Stats, looking forward to meeting everyone this semester!
+Hi everyone, my name is Derry. I’m a senior from the Bay studying CS/DS. Excited to meet everyone this semester :)

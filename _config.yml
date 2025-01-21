@@ -19,7 +19,7 @@ description: The course website for UC Berkeley's Data 102 course
 author: Sandya
 baseurl: '/sp25' # the subpath of your site, e.g. /blog
 url: 'https://data102.org' # the base hostname & protocol for your site, e.g. http://example.com
-logo: 'assets/brand/favicon.png'
+logo: 'assets/brand/logo.png'
 current_week: 1
 
 # Theme settings
@@ -31,11 +31,11 @@ heading_anchors: false
 
 aux_links:
   Ed:
-    - 'https://edstem.org/us/courses/52891'
+    - 'https://edstem.org/us/courses/74454'
   Gradescope:
-    - 'https://www.gradescope.com/courses/711377'
+    - 'https://www.gradescope.com/courses/959999'
   Extenuating Circumstances:
-    - 'https://forms.gle/Pf78cwJ9UPiFTgNR6'
+    - 'https://forms.gle/itp44JPQvXi9zF3h6'
 
 # Collections for website data
 collections:

@@ -1,10 +1,10 @@
 ---
-title: 'Week 14: Midterm II and Privacy'
+title: 'Week 14: Conformal Inference and Case Studies'
 ref: 'week-14'
 ---
 
 Apr 22
-: **Midterm**{: .label .label-exam } Midterm II
+: **Lecture**{: .label .label-lecture } [23. Conformal Inference](lecture/lec23)
 
 Apr 24
 : **Lecture**{: .label .label-lecture } [24. Case Studies, Robustness, and Generalization](lecture/lec24)

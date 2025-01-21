@@ -5,7 +5,7 @@ role: TA
 email: willrathgeb@berkeley.edu
 website:
 photo: will.jpg
-pronouns: He/Him/His
+pronouns: he/him
 ---
 
-Hey everyone! I’m Will, a senior studying DS and Stats. In my free time I like to watch sports, workout, and play tennis. I hope you all enjoy 102!
+Hey y’all! I’m Will, a senior studying DS and Stats. In my free time I like to read, workout, and play volleyball. I hope you all enjoy 102!
