@@ -2,7 +2,7 @@
 name: Derry Xu
 team: Staff
 role: TA
-email: derryxu@berkeley.edu@berkeley.edu
+email: derryxu
 website:
 photo: derry.jpg
 pronouns: he/him

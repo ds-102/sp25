@@ -2,7 +2,7 @@
 name: Brandon Marks
 team: Staff
 role: TA
-email: brandonm@berkeley.edu
+email: brandonm
 website:
 photo: brandon.jpg
 pronouns: he/him

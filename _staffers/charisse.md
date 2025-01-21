@@ -2,7 +2,7 @@
 name: Charisse Liu
 team: Staff
 role: TA
-email: charisseliu@berkeley.edu
+email: charisseliu
 website:
 photo: charisse.jpg
 pronouns: she/her

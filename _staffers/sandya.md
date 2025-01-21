@@ -2,7 +2,7 @@
 name: Sandya Wijaya
 team: Staff
 role: TA
-email: sandya.wijaya@berkeley.edu
+email: sandya.wijaya
 website:
 photo: sandya.jpg
 pronouns: she/her

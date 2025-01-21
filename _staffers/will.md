@@ -2,7 +2,7 @@
 name: Will Rathgeb
 team: Staff
 role: TA
-email: willrathgeb@berkeley.edu
+email: willrathgeb
 website:
 photo: will.jpg
 pronouns: he/him

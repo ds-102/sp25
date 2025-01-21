@@ -2,7 +2,7 @@
 name: Faith Dennis
 team: Staff
 role: Tutor
-email: f.albao@berkeley.edu
+email: f.albao
 website:
 photo: 
 pronouns:

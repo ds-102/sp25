@@ -2,7 +2,7 @@
 name: Monel Tse
 team: Staff
 role: Tutor
-email: moneltse@berkeley.edu
+email: moneltse
 website:
 photo: monel.jpg
 pronouns: she/her

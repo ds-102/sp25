@@ -2,7 +2,7 @@
 name: Giselle Gaxiola-Elenes
 team: Staff
 role: Tutor
-email: giselle_gax@berkeley.edu
+email: giselle_gax
 website:
 photo: giselle.jpg
 pronouns: she/her
