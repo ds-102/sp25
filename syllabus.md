@@ -56,7 +56,7 @@ Discussion attendance will be **opt-in mandatory**: this means that you have the
 
 * **Option 2 (no attendance)**: if you choose this option, you are choosing to not attend discussion section. You are welcome to access the worksheets and answers posted online each week. If you choose option 2, you will receive full credit (i.e., 8 free discussion points). If you choose Option 2 for half the semester (see below for information about switching), you'll receive full credit for that half (i.e., 4 free discussion points).
 
-While course staff strongly recommend choosing option 1, we encourage you to choose the option that will ultimately best suit your learning. In other data courses that have similar policies, choosing Option 1 is positively correlated with earning a higher grade (despite the additional attendance requirement).
+While course staff strongly recommend choosing option 1, we encourage you to choose the option that will ultimately best suit your learning. In other data courses that have similar policies, choosing Option 1 is positively correlated with earning a higher grade (despite the additional attendance requirement). We will distribute a form during the first week **that all students must fill out** to choose between the options.
 
 You will have the option to switch between Option 1 and Option 2 after Midterm 1 grades have been returned, in week 7.
 
