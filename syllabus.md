@@ -54,7 +54,7 @@ Discussion attendance will be **opt-in mandatory**: this means that you have the
 
 * **Option 1 (discussion attendance, recommended)**: if you choose this option, you are committing to attend discussion section every week, and work with a group of 3 of your peers (i.e., groups of 4) on discussion questions. For each discussion section you attend, you will earn 1 discussion point, and your discussion grade will be computed as (number of discussion points) / 8: in other words, you may miss up to two discussion sections with no penalty.
 
-* **Option 2 (no attendance)**: if you choose this option, you are choosing to not attend discussion section. You are welcome to access the worksheets and answers posted online each week. For each half of the semester that you choose option 2, you will receive four free discussion points.
+* **Option 2 (no attendance)**: if you choose this option, you are choosing to not attend discussion section. You are welcome to access the worksheets and answers posted online each week. If you choose option 2, you will receive full credit (i.e., 8 free discussion points). If you choose Option 2 for half the semester (see below for information about switching), you'll receive full credit for that half (i.e., 4 free discussion points).
 
 While course staff strongly recommend choosing option 1, we encourage you to choose the option that will ultimately best suit your learning. In other data courses that have similar policies, choosing Option 1 is positively correlated with earning a higher grade (despite the additional attendance requirement).
 
@@ -103,7 +103,7 @@ More details will be announced on Ed closer to the end of term.
 
 Grades will be assigned using the following weighted components:
 
-|**Category**| **Percentage (Option 1) ** | **Details** |
+|**Category**| **Percentage** | **Details** |
 | -- | -- | -- |
 | Vitamins     | 5%  | Drop 2 lowest scores  |
 | Homeworks    | 20% | No drop; 5 slip days |
