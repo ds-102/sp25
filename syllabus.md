@@ -46,7 +46,19 @@ Laptop use during lecture is discouraged. If you have circumstances that require
 
 ### Discussion
 {:.no_toc}
-Discussion section will be held on **Wednesdays**, led by your GSIs. These sections will cover important problem-solving skills that bridge the concepts in lectures with the skills you’ll need to apply the ideas on the homework and beyond.
+Discussion section will be held on **Wednesdays**, led by your GSIs. These sections will cover important problem-solving skills that bridge the concepts in lectures with the skills you’ll need to apply the ideas on the homework and beyond. Each week, discussion worksheets and answers (without full explanations) will be posted online the following day.
+
+There will be 10 discussion sections: the sections on 2/26, 4/16, and 4/30 will be cancelled and replaced with office hours to help you prepare for midterm 1, midterm 2, and the project, respectively.
+
+Discussion attendance will be **opt-in mandatory**: this means that you have the option at the start of the semester (and again at week 7) to choose between one of two options:
+
+* **Option 1 (discussion attendance, recommended)**: if you choose this option, you are committing to attend discussion section every week, and work with a group of 3 of your peers (i.e., groups of 4) on discussion questions. For each discussion section you attend, you will earn 1 discussion point, and your discussion grade will be computed as (number of discussion points) / 8: in other words, you may miss up to two discussion sections with no penalty.
+
+* **Option 2 (no attendance)**: if you choose this option, you are choosing to not attend discussion section. You are welcome to access the worksheets and answers posted online each week. For each half of the semester that you choose option 2, you will receive four free discussion points.
+
+While course staff strongly recommend choosing option 1, we encourage you to choose the option that will ultimately best suit your learning. In other data courses that have similar policies, choosing Option 1 is positively correlated with earning a higher grade (despite the additional attendance requirement).
+
+You will have the option to switch between Option 1 and Option 2 after Midterm 1 grades have been returned, in week 7.
 
 ### Lab
 {:.no_toc}
@@ -56,7 +68,7 @@ When completing and submitting the lab, you may work individually or in pairs. Y
 
 ### Homeworks
 {:.no_toc}
-Homework assignments are released every other week on Fridays and due two Fridays after. These assignments are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lectures. They contain both math and coding tasks.
+Homework assignments are released every other week on Fridays and due two Fridays after. These assignments are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lectures. They contain both math and coding tasks, as well as critical reflection questions that require you to explain your answers and put them into context.
 
 - All homeworks must be submitted to Gradescope by their posted deadlines.
 - Each assignment will include detailed instructions on how to submit your work for grading. It is the student’s responsibility to read these carefully and ensure that their work is submitted correctly. Assignment accommodations will not be granted in cases where students have mis-submitted their work (for example, by submitting to the wrong portal, submitting only part of an assignment, or forgetting to select pages).
@@ -71,10 +83,10 @@ Vitamins are weekly short Gradescope assignments to check that you are keeping u
 
 There will be two midterms in this class:
 
-- Midterm I on **February 27th**, time TBA 
-- Midterm II on **April 17th**, time TBA 
+- Midterm I on **February 27th**, time TBA (either 8-10PM or 7-9PM)
+- Midterm II on **April 17th**, time TBA (either 8-10PM or 7-9PM)
 
-There will **not** be a final exam. 
+There will **not** be a final exam.
 
 All exams must be taken in-person. You must sit the midterms at the specified time: if you have a conflict, please contact course staff ASAP at [data102@berkeley.edu](mailto:data102@berkeley.edu). **We will not accept any conflicts after the drop deadline**.
 
@@ -91,13 +103,14 @@ More details will be announced on Ed closer to the end of term.
 
 Grades will be assigned using the following weighted components:
 
-|**Category**| **Percentage** | **Details** |
+|**Category**| **Percentage (Option 1) ** | **Details** |
 | -- | -- | -- |
-| Vitamins| 5% | Drop 2 lowest scores |
-| Homeworks | 20% | No drop; 5 slip days |
-| Labs | 15% | Drop 2 lowest scores
-| Midterm 1 | 20% | |
-| Midterm 2 | 20% | |
+| Vitamins     | 5%  | Drop 2 lowest scores  |
+| Homeworks    | 20% | No drop; 5 slip days |
+| Labs         | 14% | Drop 2 lowest scores |
+| Discussion   | 3%  | Drop 2 absences |
+| Midterm 1    | 19% | |
+| Midterm 2    | 19% | |
 | Final project| 20% | |
 
 #### Grading Criteria
