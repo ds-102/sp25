@@ -83,10 +83,10 @@ Vitamins are weekly short Gradescope assignments to check that you are keeping u
 
 There will be two midterms in this class:
 
-- Midterm I on **February 27th**, time TBA (either 8-10PM or 7-9PM)
-- Midterm II on **April 17th**, time TBA (either 8-10PM or 7-9PM)
+- Midterm I on **February 27th**, 8-10PM
+- Midterm II on **April 17th**, 7-9PM
 
-There will **not** be a final exam.
+There will **not** be a final exam. Note that the two exams are at different times!
 
 All exams must be taken in-person. You must sit the midterms at the specified time: if you have a conflict, please contact course staff ASAP at [data102@berkeley.edu](mailto:data102@berkeley.edu). **We will not accept any conflicts after the drop deadline**.
 
