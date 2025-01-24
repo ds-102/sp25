@@ -11,5 +11,5 @@ Jan 23
 : **Vitamin**{: .label .label-vit } [Vitamin 1](https://www.gradescope.com/courses/959999/assignments/5660462) (due Jan 27 at 11:59 PM)
 
 Jan 24
-: Lab{: .label .label-lab } [Lab 1: Review and Warm-Up](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Flab%2Flab01%2Flab01.ipynb&branch=main) (due Jan 29 at 5 PM)
+: **Lab**{: .label .label-lab } [Lab 1: Review and Warm-Up](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Flab%2Flab01%2Flab01.ipynb&branch=main) (due Jan 29 at 5 PM)
 
