@@ -13,3 +13,5 @@ Jan 23
 Jan 24
 : **Lab**{: .label .label-lab } [Lab 1: Review and Warm-Up](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Flab%2Flab01%2Flab01.ipynb&branch=main) (due Jan 29 at 5 PM)
 
+Jan 25
+: **Homework**{: .label .label-hw } [Homework 1](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Fhomework%2Fhw01&branch=main) (due Feb 7 at 5 PM)
