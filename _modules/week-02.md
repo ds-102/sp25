@@ -11,3 +11,6 @@ Jan 29
 
 Jan 30
 : **Lecture**{: .label .label-lecture } [4. False Discovery Rate Control & ROC Curves](lecture/lec04)
+
+Jan 31
+: **Lab**{: .label .label-lab } [Lab 2: Basics of Testing](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Flab%2Flab02%2Flab02.ipynb&branch=main) (due Feb 5 at 5 PM)
