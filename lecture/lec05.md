@@ -5,3 +5,9 @@ nav_exclude: true
 ---
 
 # Lecture 5 - Decision Theory
+
+Presented by Ramesh Sridharan
+
+- [Slides](https://docs.google.com/presentation/d/15eIhsCnEOAJHS85W2PKipeJ0CCQV_oYRAaktEeL6n70/edit?usp=sharing)
+- Textbook reading
+  - [Section 1.5](https://data102.org/ds-102-book/content/chapters/01/05_decision_theory.html)
