@@ -11,3 +11,4 @@ Feb 5
 
 Feb 6
 : **Lecture**{: .label .label-lecture } [6. Introduction to Frequentist and Bayesian Modeling](lecture/lec06)
+: **Vitamin**{: .label .label-vit} [Vitamin 3](https://www.gradescope.com/courses/959999/assignments/5698974)
