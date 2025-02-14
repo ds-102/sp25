@@ -12,3 +12,6 @@ Feb 12
 Feb 13
 : **Lecture**{: .label .label-lecture } [8. Bayesian Inference with Sampling](lecture/lec08)
 : **Vitamin**{: .label .label-vit } [Vitamin 4](https://www.gradescope.com/courses/959999/assignments/5731929) (due Feb 16 at 11:59 PM)
+
+Feb 14
+: **Lab**{: .label .label-lab } [Lab 4: Bayesian Estimation in Hierarchical Graphical Models](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Flab%2Flab04%2Flab04.ipynb&branch=main) (due Feb 19 at 5 PM)
