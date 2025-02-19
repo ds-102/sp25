@@ -225,3 +225,10 @@
   .btn-gradescope {
     @include btn-color($white, #228B22);
   }
+
+  .role {
+    display: flex
+;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+}
