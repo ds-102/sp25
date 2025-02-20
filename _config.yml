@@ -81,8 +81,6 @@ compress_html:
   blanklines: false
   profile: false
   
-math: mathjax
-
 # The sitemap **must** be enabled. It's published as /baseurl/sitemap.xml
 plugins:
   - jekyll-sitemap
