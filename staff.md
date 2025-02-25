@@ -18,7 +18,7 @@ Append `@berkeley.edu` to all email addresses. **For personal circumstances or s
 
 <div class = "role flex">
     {% for staffer in professors %}
-    {{ staffer }}
+        {{ staffer }}
     {% endfor %}
 </div>
 {% endif %}
@@ -28,9 +28,11 @@ Append `@berkeley.edu` to all email addresses. **For personal circumstances or s
 {% if num_instructors != 0 %}
 ## Instructors
 
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
+<div class = "role flex">
+    {% for staffer in instructors %}
+        {{ staffer }}
+    {% endfor %}
+</div>
 {% endif %}
 
 {% assign staff = site.staffers | where: 'team', 'Staff' | reverse %}
@@ -40,7 +42,7 @@ Append `@berkeley.edu` to all email addresses. **For personal circumstances or s
 
 <div class = "role flex">
     {% for staffer in staff %}
-    {{ staffer }}
+        {{ staffer }}
     {% endfor %}
 </div>
 {% endif %}

@@ -1,6 +1,5 @@
-{% assign math = page.math | default: layout.math | default: site.math %}
+<!-- Use this to add global CSS/JS utitlties. -->
 
-{% case math %}
-  {% when "mathjax" %}
-    {% include mathjax.html %}
-{% endcase %}
+<!-- Loading the v6 core styles and the Solid and Brands styles -->
+<link href="{{ site.baseurl }}/assets/vendor/fontawesome/css/fontawesome.css" rel="stylesheet" />
+<link href="{{ site.baseurl }}/assets/vendor/fontawesome/css/solid.css" rel="stylesheet" />
