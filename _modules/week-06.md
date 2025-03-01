@@ -14,3 +14,6 @@ Feb 27
 
 Feb 28
 : **Lab**{: .label .label-lab } [Lab 6: GLMs and the Bootstrap](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Flab%2Flab06%2Flab06.ipynb&branch=main) (due Mar 5 at 5 PM)
+
+March 1
+: **Homework**{: .label .label-hw} [Homework 3](https://data102.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds102-sp25materials&urlpath=lab%2Ftree%2Fds102-sp25materials%2Fhomework%2Fhw03&branch=master) (due March 14 at 5 PM)
