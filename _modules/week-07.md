@@ -11,3 +11,4 @@ Mar 5
 
 Mar 6
 : **Lecture**{: .label .label-lecture } [13. Nonparametric Methods and Interpretability](lecture/lec13)
+: **Vitamin**{: .label .label-vit} [Vitamin 6](https://www.gradescope.com/courses/959999/assignments/5867236/) (due Mar 9 at 11:59 PM)
