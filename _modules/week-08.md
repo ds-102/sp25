@@ -11,3 +11,4 @@ Mar 12
 
 Mar 13
 : **Lecture**{: .label .label-lecture } [15. Causal Inference I: Association and Causation](lecture/lec15)
+: **Vitamin**{: .label .label-vit } [Vitamin 7](https://www.gradescope.com/courses/959999/assignments/5919304/) (due Mar 16 at 11:59 PM)
