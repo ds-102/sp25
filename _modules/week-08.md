@@ -12,3 +12,6 @@ Mar 12
 Mar 13
 : **Lecture**{: .label .label-lecture } [15. Causal Inference I: Association and Causation](lecture/lec15)
 : **Vitamin**{: .label .label-vit } [Vitamin 7](https://www.gradescope.com/courses/959999/assignments/5919304/) (due Mar 16 at 11:59 PM)
+
+Mar 14
+: **Lab**{: .label .label-lab } [Lab 8: Estimating Causal Effects via Instrumental Variables](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Flab%2Flab08%2Flab08.ipynb&branch=main) (due Mar 19 at 5 PM)
