@@ -15,3 +15,6 @@ Mar 13
 
 Mar 14
 : **Lab**{: .label .label-lab } [Lab 8: Estimating Causal Effects via Instrumental Variables](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Flab%2Flab08%2Flab08.ipynb&branch=main) (due Mar 19 at 5 PM)
+
+Mar 15
+: **Homework**{: .label .label-hw} [Homework 4](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Fhomework%2Fhw04&branch=main) (due Apr 4 at 5 PM)
