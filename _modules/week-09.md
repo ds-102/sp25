@@ -12,3 +12,6 @@ Mar 19
 Mar 20
 : **Lecture**{: .label .label-lecture } [17. Causal Inference III: Observational Studies](lecture/lec17)
 : **Vitamin**{: .label .label-vit} [Vitamin 8](https://www.gradescope.com/courses/959999/assignments/5955645) (due Mar 30 at 11:59 PM)
+
+Mar 21
+: **Lab**{: .label .label-lab } [Lab 9: Unconfoundedness](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Flab%2Flab09%2Flab09.ipynb&branch=main) (due Apr 2 at 5 PM)
