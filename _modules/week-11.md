@@ -12,3 +12,7 @@ Apr 2
 Apr 3
 : **Lecture**{: .label .label-lecture } [19. Bandits I](lecture/lec19)
 : **Vitamin**{: .label .label-vit} [Vitamin 9](https://www.gradescope.com/courses/959999/assignments/6033103) (due Apr 6 at 11:59 PM)
+
+
+Apr 4
+: **Lab**{: .label .label-lab } [Lab 10: Bandits](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Flab%2Flab10%2Flab10.ipynb&branch=main) (due Apr 9 at 5 PM)
