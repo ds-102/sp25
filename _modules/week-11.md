@@ -16,3 +16,6 @@ Apr 3
 
 Apr 4
 : **Lab**{: .label .label-lab } [Lab 10: Bandits](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Flab%2Flab10%2Flab10.ipynb&branch=main) (due Apr 9 at 5 PM)
+
+Apr 5
+: **Homework**{: .label .label-hw} [Homework 5](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Fhomework%2Fhw05&branch=main) (due Apr 11 at 5 PM)
