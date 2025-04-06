@@ -8,3 +8,6 @@ Apr 8
 
 Apr 10
 : **Lecture**{: .label .label-lecture } [21. Reinforcement Learning I](lecture/lec21)
+
+Apr 11
+: **Project**{: .label .label-hw} [Project Proposal Due](https://drive.google.com/file/d/1btr_5w1kp-1OHR0nmX4DzXO-EGXOUbYP/view)

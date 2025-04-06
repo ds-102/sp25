@@ -8,3 +8,6 @@ Apr 29
 
 May 1
 : **Lecture**{: .label .label-lecture } 26. [Course Wrap-Up](lecture/lec26)
+
+May 2
+: **Project**{: .label .label-hw} [Project Checkpoint 2 Due](https://drive.google.com/file/d/1btr_5w1kp-1OHR0nmX4DzXO-EGXOUbYP/view)
