@@ -6,6 +6,9 @@ ref: 'week-12'
 Apr 8
 : **Lecture**{: .label .label-lecture } [20. Bandits II](lecture/lec20)
 
+Apr 9
+: **Discussion**{: .label .label-disc } [Discussion 9](https://drive.google.com/file/d/1QMXwtyWvaHEPx4GmAHl-ZOl1zG71a_Yy/view?usp=sharing)
+
 Apr 10
 : **Lecture**{: .label .label-lecture } [21. Reinforcement Learning I](lecture/lec21)
 
