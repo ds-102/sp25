@@ -14,3 +14,6 @@ Apr 10
 
 Apr 11
 : **Project**{: .label .label-hw} [Project Proposal Due](https://drive.google.com/file/d/1btr_5w1kp-1OHR0nmX4DzXO-EGXOUbYP/view)
+
+Apr 11
+: **Lab**{: .label .label-lab } [Lab 11: Reinforcement Learning with Data](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Flab%2Flab11%2Flab11.ipynb&branch=main) (due Apr 23 at 5 PM)
