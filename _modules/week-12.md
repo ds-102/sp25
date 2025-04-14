@@ -11,6 +11,7 @@ Apr 9
 
 Apr 10
 : **Lecture**{: .label .label-lecture } [21. Reinforcement Learning I](lecture/lec21)
+: **Vitamin**{: .label .label-vit} [Vitamin 10](https://www.gradescope.com/courses/959999/assignments/6059238)
 
 Apr 11
 : **Project**{: .label .label-hw} [Project Proposal Due (extended until Apr 14)](https://drive.google.com/file/d/1btr_5w1kp-1OHR0nmX4DzXO-EGXOUbYP/view)
