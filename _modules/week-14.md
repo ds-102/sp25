@@ -9,8 +9,12 @@ Apr 21
 Apr 22
 : **Lecture**{: .label .label-lecture } [23. Conformal Inference](lecture/lec23)
 
+Apr 23
+: **Discussion**{: .label .label-disc } [Discussion 10](https://drive.google.com/file/d/1wRHcHIUiJh1PvWx6RDnMez-JZS9FVx2X/view?usp=sharing)
+
 Apr 24
 : **Lecture**{: .label .label-lecture } [24. Case Studies, Robustness, and Generalization](lecture/lec24)
+: **Vitamin**{: .label .label-vit } [Vitamin 11](https://www.gradescope.com/courses/959999/assignments/6127620) (due Apr 27 at 11:59 PM)
 
 Apr 25
 : **Project**{: .label .label-hw} [Project Checkpoint 1 Due](https://www.gradescope.com/courses/959999/assignments/6120979)
