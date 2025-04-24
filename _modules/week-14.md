@@ -10,7 +10,7 @@ Apr 22
 : **Lecture**{: .label .label-lecture } [23. Conformal Inference](lecture/lec23)
 
 Apr 23
-: **Discussion**{: .label .label-disc } [Discussion 10](https://drive.google.com/file/d/1wRHcHIUiJh1PvWx6RDnMez-JZS9FVx2X/view?usp=sharing)
+: **Discussion**{: .label .label-disc } [Discussion 10](https://drive.google.com/file/d/1wRHcHIUiJh1PvWx6RDnMez-JZS9FVx2X/view?usp=sharing) [(Answers)](https://drive.google.com/file/d/1BTIwRMslQMXLRw7Etcs6e34rQlnq4p99/view?usp=sharing)
 
 Apr 24
 : **Lecture**{: .label .label-lecture } [24. Case Studies, Robustness, and Generalization](lecture/lec24)
