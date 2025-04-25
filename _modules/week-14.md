@@ -18,3 +18,6 @@ Apr 24
 
 Apr 25
 : **Project**{: .label .label-hw} [Project Checkpoint 1 Due](https://www.gradescope.com/courses/959999/assignments/6120979)
+
+Apr 25
+: **Lab**{: .label .label-lab } [Lab 12: Differential Privacy](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp25-materials&urlpath=lab%2Ftree%2Fsp25-materials%2Flab%2Flab12%2Flab12.ipynb&branch=main) (No Due Date, Optional)
