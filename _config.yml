@@ -20,7 +20,10 @@ author: Sandya
 baseurl: '/sp25' # the subpath of your site, e.g. /blog
 url: 'https://data102.org' # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'assets/brand/logo.png'
-current_week: 5
+current_week: 14
+
+markdown: kramdown
+math: mathjax
 
 course_department: dsus
 class_archive_path: /

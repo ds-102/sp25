@@ -3,3 +3,18 @@
 <!-- Loading the v6 core styles and the Solid and Brands styles -->
 <link href="{{ site.baseurl }}/assets/vendor/fontawesome/css/fontawesome.css" rel="stylesheet" />
 <link href="{{ site.baseurl }}/assets/vendor/fontawesome/css/solid.css" rel="stylesheet" />
+
+<!-- Mathjax -->
+
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']], // Inline math with $...$ and \(...\)
+      displayMath: [['$$', '$$'], ['\\[', '\\]']] // Display math with $$...$$ and \[...\]
+    },
+    svg: {
+      fontCache: 'global'
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
